@@ -1,2 +1,3 @@
 # odin-recipes
-recipe project
+A brief website showcasing modern recipes
+
